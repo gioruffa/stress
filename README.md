@@ -1,6 +1,6 @@
 # Stress
 
-A lightweight Docker container for [stress](http://people.seas.harvard.edu/~apw/stress/), a tool for generating workload. It can produce CPU, memory, I/O, and disk stress.
+A lightweight Docker container for [stress-ng](https://kernel.ubuntu.com/~cking/stress-ng/), a tool for generating workload. It can produce CPU, memory, I/O, and disk stress.
 
 Widely based on [docker-stress](https://github.com/progrium/docker-stress), from Jeff Lindsay.
 
